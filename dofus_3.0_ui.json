@@ -1,0 +1,12 @@
+{
+    "author" : "Pumpkin", 
+    "name" : "DOFUS 3.0 UI", 
+    "keyWords" : "Modern,Theme,Minimalist,Transparent",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.63", 
+    "description" : "Un thème minimaliste pour Dofus 2.0", 
+    "url" : "http://mywebsite.com/mytheme.zip",
+    "previewUrl" : "http://mywebsite.com/preview.jpg", 
+    "creationDate" : "JJ/MM/AAAA", 
+    "modificationDate" : "JJ/MM/AAAA"
+    } 
