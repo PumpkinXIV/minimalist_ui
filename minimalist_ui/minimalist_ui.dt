@@ -1,0 +1,11 @@
+<theme>
+    <name>MinimalistUI</name>
+    <skinType>1</skinType>
+    <description>Un thème minimaliste pour Dofus 2.63</description>
+    <previewUri>preview.png</previewUri>
+    <author>Pumpkin</author>
+    <version>1.0.0</version>
+    <dofusVersion>2.63</dofusVersion> 
+    <creationDate>01/04/2022</creationDate> 
+    <modificationDate>01/04/2022</modificationDate> 
+</theme>
