@@ -5,8 +5,8 @@
     "version" : "1.0.0",
     "dofusVersion" : "2.63", 
     "description" : "Un thème minimaliste pour Dofus 2.0", 
-    "url" : "http://mywebsite.com/mytheme.zip",
-    "previewUrl" : "http://mywebsite.com/preview.jpg", 
+    "url" : "https://github.com/PumpkinXIV/dofus_3.0_ui/raw/main/dofus_3.0_ui.zip",
+    "previewUrl" : "https://github.com/PumpkinXIV/dofus_3.0_ui/raw/main/preview.png", 
     "creationDate" : "JJ/MM/AAAA", 
     "modificationDate" : "JJ/MM/AAAA"
     } 
